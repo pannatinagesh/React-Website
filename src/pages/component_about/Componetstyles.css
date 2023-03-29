@@ -1,0 +1,16 @@
+
+.display-spaceBetween {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 1em !important;
+  }
+
+  .display-spaceBetweenBottom {
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: 2em !important;
+  }
+
+.fontWeight {
+    font-weight: 600;
+  }

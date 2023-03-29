@@ -1,0 +1,176 @@
+.App {
+  font-family: 'Plus Jakarta Sans';
+  /* text-align: center; */
+}
+
+.finxbg {
+  background-color: #FAE2CC;
+}
+
+.finxrow {
+  text-align: center;
+}
+
+.finxtext {
+  display: inline;
+  margin-left: 28px;
+  font-weight: 500;
+  font-size: 24px;
+  color: #1D1D1D;
+}
+
+.finximg2 {
+  margin-left: 12px;
+  display: inline;
+}
+
+.finxcelimg {
+  display: inline;
+  margin-left: 24px;
+}
+
+.finxlogo {
+  margin-top: 35px;
+  margin-left: 64px;
+}
+
+.finxname {
+  margin-left: 8px;
+  display: inline;
+  font-weight: 700;
+  font-size: 20px;
+  color: #00315D;
+}
+
+.textone {
+  font-weight: 600;
+  font-size: 32px;
+  color: rgba(29, 29, 29, 0.7);
+  margin-left: 64px;
+  margin-top: 19%;
+}
+
+.rowfinx {
+  margin-top: 10%;
+}
+
+.colfinx {
+  margin-top: 30px;
+}
+
+.costrupees {
+  display: inline;
+  color: #1D1D1D;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.texttwo {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  margin-left: 64px;
+  color: #1D1D1D;
+  margin-top: 16px;
+}
+
+.textthree {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  color: #0060AC;
+  margin-left: 64px;
+  margin-top: 16px;
+}
+
+.layer1 {
+  position: relative;
+  left: 55%;
+  bottom: 65%;
+}
+
+.formfield {
+  background: #FFFFFF;
+  border-radius: 16px;
+  margin-left: 64px;
+  width: 261px;
+  height: 56px;
+  margin-top: 32px;
+}
+
+.applybutton {
+  margin-left: 12px;
+  /* font-weight: 700; */
+  font-size: 16px;
+  color: #FFFFFF;
+  background: #A4C9FF;
+  box-shadow: 1px 1px 0px #88C1EE;
+  border-radius: 16px;
+  width: 134px;
+  height: 56px;
+}
+
+/* --Component two start -- */
+
+.header {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.Imageone {
+  margin-left: 30%;
+  width: 58%;
+}
+
+.Imagetwo {
+  margin-left: 64px;
+  width: 40%;
+  height: 100%;
+}
+
+.Imagethree {
+  margin-left: 35%;
+}
+
+.stepcircle {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  background-color: #dde2f1;
+  color: #001C39;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.stepone {
+  margin-left: '60%';
+}
+
+.steponetext {
+  font-size: '24px';
+  font-weight: 600;
+  color: #1D1D1D;
+  margin-top: 16px;
+}
+
+
+
+
+/* --Component two End -- */
+
+/* ---Component three start --- */
+.title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.titletwo {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+/* ---Component three End --- */
